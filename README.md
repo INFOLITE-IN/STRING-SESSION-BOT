@@ -4,7 +4,7 @@
 Generate Pyrogram String Session Using this bot.
 
 ## Demo Bot:
-<a href="https://telegram.dog/string_session_Nsbot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+<a href="https://social_mechanic/string_session_Nsbot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
 - API_HASH
