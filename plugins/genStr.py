@@ -29,6 +29,7 @@ PHONE_NUMBER_TEXT = (
 
 
 
+
 @Client.on_message(filters.private & filters.command("start"))
 async def generate_str(c, m):
     get_api_id = await c.ask(
