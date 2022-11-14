@@ -8,3 +8,4 @@ logging.basicConfig(
 )
 
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
+
