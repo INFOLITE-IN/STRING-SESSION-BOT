@@ -4,7 +4,7 @@
 Generate Pyrogram String Session Using this bot.
 
 ## Demo Bot:
-<a href="https://t.me/social_mechanic"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+<a href=""><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
 - API_HASH
@@ -21,16 +21,16 @@ Generate Pyrogram String Session Using this bot.
 <a href="https://telegram.dog/Ns_Bot_supporters"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 #### Coded By
-- [SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-1997)
+- [](https://github.com/)
 
 
 ### Note:
-This was First made by [SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-1997.). And I am very lazy to add README.md for this repo so taken the README.MD from [SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-1997). I made small changes in this repo to make easy for the beginners to deploy.
+This was First made by [](https://github.com/.). And I am very lazy to add README.md for this repo so taken the README.MD from [SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-1997). I made small changes in this repo to make easy for the beginners to deploy.
 
 ## Follow on:
 <p align="left">
-<a href="https://github.com/SOCIAL-MECHANIC-1997"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
-<a href="https://youtube.com/channel/UCRcRXNwpjSfobVWOhkbcSrQ"><img src="https://img.shields.io/badge/YouTube-Channel-red.svg?logo=youtube"></a>
+<a href="https://youtube.com/channel/UCRcRQ"><img src="https://img.shields.io/badge/YouTube-Channel-red.svg?logo=youtube"></a>
 </p>
