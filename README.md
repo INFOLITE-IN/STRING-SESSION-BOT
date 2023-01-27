@@ -25,7 +25,7 @@ Generate Pyrogram String Session Using this bot.
 
 
 ### Note:
-This was First made by [](https://github.com/.). And I am very lazy to add README.md for this repo so taken the README.MD from [SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-1997). I made small changes in this repo to make easy for the beginners to deploy.
+This was First made by [](https://github.com/.). And I am very lazy to add README.md for this repo so taken the README.MD from [](). I made small changes in this repo to make easy for the beginners to deploy.
 
 ## Follow on:
 <p align="left">
